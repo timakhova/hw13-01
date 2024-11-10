@@ -62,6 +62,8 @@ Nmap done: 1 IP address (1 host up) scanned in 126.32 seconds
 
 # Задание 2
 
+Файл записи из Вайршарк: https://github.com/timakhova/hw13-01/blob/main/nmap.pcapng
+
 1. **SYN-сканирование** (быстрое и незаметное):
    ```bash
    nmap -sS 192.168.67.128
